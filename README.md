@@ -9,4 +9,4 @@ The steps I took to do this were:
   4. Condense CSS code when applicable 
   5. Comment on all lines of CSS to explain the process
   
-  Live link for my work: 
+  Live link for my work: https://raynagweinreb.github.io/RefactorCSS/
